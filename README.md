@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-gwihan
+- 👋 Hi, I’m @dev-aissa
 - 👀 I’m interested in exploring the internet
 - 🌱 I’m currently learning web development on the odin project
 - 💞️ I’m looking to collaborate on ...
